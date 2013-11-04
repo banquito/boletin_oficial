@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+*.sqlite
+.DS_Store
+.idea
+*.tmproj
+parsers/pdf
+parsers/txt
+parsers/xml
