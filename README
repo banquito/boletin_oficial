@@ -1,0 +1,2 @@
+Para descargar y parsear los datos del boletin oficial (1ra y 2da sección):
+$ python fetch_pdf.py yyyymmdd yyyymmdd
